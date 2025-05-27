@@ -1,5 +1,4 @@
 Project_ID,Cost_Center,Supplier,PO_Requested,Forecast_Amount,Actuals_Amount,Budget_Remaining,Compliance_Flag,Variance
-Project_ID	Cost_Center	Supplier	PO_Requested	Forecast_Amount	Actuals_Amount	Budget_Remaining	Compliance_Flag	Variance
 P0001	BF	Highradius Corporation (430041814) 	0	1301435	0	1301435	0	-1301435
 P0002	BF		0	922041	0	922041	0	-922041
 P0003	BF		0	640429	0	640429	0	-640429
