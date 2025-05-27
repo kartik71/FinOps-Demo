@@ -1,4 +1,4 @@
-Project_ID,Cost_Center,Supplier,PO_Requested,Forecast_Amount,Actuals_Amount,Budget_Remaining,Compliance_Flag,Variance
+Project_ID	Cost_Center	Supplier	PO_Requested	Forecast_Amount	Actuals_Amount	Budget_Remaining	Compliance_Flag	Variance
 CUST-0001	HR	Venom	37141	58679	64146	21538	0	5467
 CUST-0002	Operations	Anthrax	7487	21728	17534	14241	0	-4194
 CUST-0003	Operations	Dio	10915	42600	38502	31685	0	-4098
