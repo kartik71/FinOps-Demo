@@ -1,0 +1,13 @@
+{
+  "project_name": "finops-approval-workflow",
+  "project_id": "e6cf59c8-b7a3-5aab-b88e-cc31c4aed2d3",
+  "langchain_api_url": "https://api.smith.langchain.com",
+  "langchain_api_key": "${LANGCHAIN_API_KEY}",
+  "python_dependencies": [
+    "langgraph>=0.0.19",
+    "pandas>=2.0.0",
+    "langchain>=0.0.335",
+    "langchain-core>=0.1.1"
+  ],
+  "app_entrypoint": "langgraph_server:app"
+}
